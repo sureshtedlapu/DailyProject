@@ -1,0 +1,21 @@
+class real time object which has state and behaviour
+state--variables
+behaviour--methods
+variables
+let x=5 
+x is variable which hold temporary value
+variable is to  hold temporary state of class
+
+declartion of variable syntax
+Datatype variable name;
+ex: int mynum;
+Intilaisation of variable syntax
+ex:int mynum =466;
+String name = "suresh";
+char grade = 'A';
+boolean mybool = true;
+float salary = 45854.64f
+double perMarks = 81.17d
+
+final variable -- fix the variable we can not change value
+final int mynum = 466;   
